@@ -1,0 +1,39 @@
+Problem 1: Rolling a Die
+
+You roll a fair six-sided die.
+
+1. What is the sample space of this experiment?
+2. What is the probability of rolling a 4?
+3. What is the probability of rolling an even number?
+
+Problem 2: Flipping a Coin
+
+You flip a fair coin three times.
+
+1. What is the sample space of this experiment?
+2. What is the probability of getting exactly two heads?
+3. What is the probability of getting at least one tail?
+
+Problem 3: Drawing a Card
+
+You draw a card from a standard deck of 52 cards.
+
+1. What is the sample space of this experiment?
+2. What is the probability of drawing a heart?
+3. What is the probability of drawing a face card (Jack, Queen, or King)?
+
+Problem 4: Selecting a Marble
+
+A bag contains 3 red, 2 blue, and 5 green marbles. You draw one marble at random.
+
+1. What is the sample space of this experiment?
+2. What is the probability of drawing a blue marble?
+3. What is the probability of drawing a marble that is not green?
+
+Problem 5: Tossing Two Dice
+
+You toss two fair six-sided dice.
+
+1. What is the sample space of this experiment?
+2. What is the probability of getting a sum of 7?
+3. What is the probability of getting doubles (both dice show the same number)?

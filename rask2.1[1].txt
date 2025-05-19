@@ -1,0 +1,34 @@
+" Raghav is selected for a school cricket club. He has to select a jersey number of his
+choice between 0 to 99, both inclusive.
+1. What is the probability that he will select either an even number jersey or a jersey
+number divisible by 3?"
+"2. What is the probability that he will choose a jersey number neither divisible by 3
+nor by 5?"
+"3.  150 employees are working in an NPTEL office. 80 of them drink tea, 90 drink
+coffee. Some of them may drink both, but every person drinks at least one of these
+two beverages. What is the probability that a person chosen at random from this
+population drinks both tea and coffee? Draw a Venn Diagram and calculate"
+
+"4. 90 students have participated in the annual cultural festival of a college comprising
+of singing, dancing and acting competitions. The number of students who did not
+participate in the acting or dancing competitions are 10. The number of students
+who participated only in dancing competition are 15. The total number of students
+who participated in the acting competition are 50. The number of students who
+participated in both the singing and the acting competition are 20. The number of
+students who participated in both the dancing and the acting are 15. The students
+who participated in all the three competitions are 10.
+Let S be the event that a student participated in a singing competition.
+Let D be the event that a student participated in a dancing competition.
+Let A be the event that a student participated in an acting competition.
+From the given information, prepare a  Venn diagram and aswer following questions"
+
+"a. What is the probability that a student selected at random participated only in the
+dancing competition?"
+"b. What is the probability that a student selected at random participated in both the
+singing and the dancing competitions?"
+   c. What is the probability that a student selected at random has participated in boththe singing and the acting competitions but not participated in the dancing competition?
+
+"5. In a horse race, six horses numbered from 1 to 6 are participating. What is the proba-
+bility that all the even numbered horses complete the race first, that is even numberedhorses occupy the first, second and third places?"
+"6. A letter is selected from the letters of the phrase “MACHINE”. What is the probability
+that the letter selected is not a vowel?"
