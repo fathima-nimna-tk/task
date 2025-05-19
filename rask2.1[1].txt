@@ -2,12 +2,30 @@
 choice between 0 to 99, both inclusive.
 1. What is the probability that he will select either an even number jersey or a jersey
 number divisible by 3?"
+      A =set of even numbers
+      B =set of numbers divisible by 3
+    p(A union B) = P(A)+P(B)-P(A intersection B)
+       Number of tersms in A = 50
+       Number of terms in  B = 34
+       A intersection B = 17
+       P(A union B)= 67
+
 "2. What is the probability that he will choose a jersey number neither divisible by 3
 nor by 5?"
+       C= Set of numbers divisible by 5
+       number of terms in C = 20
+       
 "3.  150 employees are working in an NPTEL office. 80 of them drink tea, 90 drink
 coffee. Some of them may drink both, but every person drinks at least one of these
 two beverages. What is the probability that a person chosen at random from this
 population drinks both tea and coffee? Draw a Venn Diagram and calculate"
+        T = no. of people drink tea = 80
+        C = no. who drink coffee = 90
+        B = no. who drink both 
+        total = 150
+        B = 150-80+90= 20
+        Probability = 20/150 = 2/15
+
 
 "4. 90 students have participated in the annual cultural festival of a college comprising
 of singing, dancing and acting competitions. The number of students who did not
@@ -24,11 +42,29 @@ From the given information, prepare a  Venn diagram and aswer following question
 
 "a. What is the probability that a student selected at random participated only in the
 dancing competition?"
+         no. of students participated only in dancing D = 15
+         Prpbability = 15/90 = 1/6
 "b. What is the probability that a student selected at random participated in both the
 singing and the dancing competitions?"
-   c. What is the probability that a student selected at random has participated in boththe singing and the acting competitions but not participated in the dancing competition?
+          S = Singing
+          D = dancing 
+          A = acting
+      can't determine the answer
+
+   c. What is the probability that a student selected at random has participated in boththe singing and the acting competitions but not participated in the dancing competition? 
+            probability = 10/90 = 1/9 
 
 "5. In a horse race, six horses numbered from 1 to 6 are participating. What is the proba-
 bility that all the even numbered horses complete the race first, that is even numberedhorses occupy the first, second and third places?"
+         even numbered horses = 2,4,6
+         total ways = 120 
+         favourable = 6
+         probability = 6/120 = 1/20
+
 "6. A letter is selected from the letters of the phrase “MACHINE”. What is the probability
 that the letter selected is not a vowel?"
+          total letters = 7
+          vowels = 3
+          not vowel = 4
+          probability = 4/7
+          
